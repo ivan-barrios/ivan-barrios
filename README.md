@@ -1,10 +1,12 @@
-### Hi there 👋
 
-<!--
-**ivan-barrios/ivan-barrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Ivan Barrios👋</h1>
+	
+##  **About me**
 
-Here are some ideas to get you started:
+<br>
 
-- 🌱 I’m currently learning Next.js, Java, C, and Assembly
-- 📫 How to reach me: ivanbar8112003@gmail.com
--->
+### - 👨‍💻 Computer Engineering Student
+### - 🌱 Currently learning about: Next.js, Java, C and Assembly
+
+<br>
+Contact me: ivanbar8112003@gmail.com
