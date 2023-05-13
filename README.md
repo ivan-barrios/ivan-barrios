@@ -18,5 +18,3 @@ Computer Engineering Student | Web Developer
 
 - LinkedIn: https://www.linkedin.com/in/ivan-barrios-030b7721a/
 - Email: ivanbar8112003@gmail.com
-
-Let's connect and collaborate on exciting projects!
