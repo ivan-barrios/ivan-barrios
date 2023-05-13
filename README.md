@@ -1,12 +1,22 @@
+# Hi, I'm Ivan Barrios 👋
 
-<h1 align="center">Hi , I'm Ivan Barrios👋</h1>
-	
-##  **About me**
 
-<br>
+Computer Engineering Student | Web Developer
 
-### - 👨‍💻 Computer Engineering Student
-### - 🌱 Currently learning about: Next.js, Java, C and Assembly
+## 🌱 About Me
 
-<br>
-Contact me: ivanbar8112003@gmail.com
+- 🎓 Studying Computer Engineering at UNLP.
+- 💻 Experienced in web development with a focus on creating dynamic and responsive applications.
+- 🤖 Currently fascinated by Artificial Intelligence and its potential applications.
+
+## 🔧 Skills
+
+- Programming Languages: C, Java, JavaScript, Assembly.
+- Web Development: React, Next.js, TailwindCSS, Framer Motion.
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/ivan-barrios-030b7721a/
+- Email: ivanbar8112003@gmail.com
+
+Let's connect and collaborate on exciting projects!
